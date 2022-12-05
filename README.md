@@ -3,7 +3,7 @@ Repository that holds code for for CSCE: 689 Deep Reinforcement Learning's Cours
 
 # Authors
 Shubham Parashar (shubhamprshr@tamu.edu)
-Vijay Anand Raghava Kanakagiri ()
+Vijay Anand Raghava Kanakagiri (vijay7anand@tamu.edu)
 
 # Overview
 The repo contains source code for our project, Reweighted-Behavior-Cloning. We derive motivation from the following repos:
@@ -11,6 +11,11 @@ The repo contains source code for our project, Reweighted-Behavior-Cloning. We d
 2. https://github.com/nerdimite/behavioral-cloning - PyTorch starter kit for behavior cloning.
 3. https://github.com/upul/Behavioral-Cloning - Image Augmentations and dataset for the Udacity Simulator.
 4. https://github.com/SteiMi/denseweight -  DenseWeight and corresponding DenseLoss
+
+# Datasets
+1. Udacity: We have used the dataset collected by https://github.com/upul/Behavioral-Cloning. It has different Left, Center and Right viewpoint images. Our training has been done using this dataset of 23000 images. Please unzip the `Archive.zip` file to access. The imbalance statistics have been shown below.
+
+2. DonkeyCar: For our own educational purposes we have collected data on the DonkeyCar simulator (https://docs.donkeycar.com/guide/deep_learning/simulator/). The statistics for this dataset are as follows:
 
 # Training
 We have used Colab for training our models. If you would like to do the same, we recommend downloading the Training-Notebook.ipynb from `/train` folder. 
