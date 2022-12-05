@@ -13,9 +13,13 @@ The repo contains source code for our project, Reweighted-Behavior-Cloning. We d
 4. https://github.com/SteiMi/denseweight -  DenseWeight and corresponding DenseLoss
 
 # Datasets
-1. Udacity: We have used the dataset collected by https://github.com/upul/Behavioral-Cloning. It has different Left, Center and Right viewpoint images. Our training has been done using this dataset of 23000 images. Please unzip the `Archive.zip` file to access. The imbalance statistics have been shown below.
+1. Udacity: We have used the dataset collected by https://github.com/upul/Behavioral-Cloning. It has different Left, Center and Right viewpoint images. Our training has been done using this dataset of 23000 images. Please download the dataset from: https://drive.google.com/file/d/1Is3attEWWhGMJlV2ffEbu2sC10ex3wcq/view?usp=sharing
 
-2. DonkeyCar: For our own educational purposes we have collected data on the DonkeyCar simulator (https://docs.donkeycar.com/guide/deep_learning/simulator/). The statistics for this dataset are as follows:
+The stats for the dataset are as follows:
+
+2. DonkeyCar: For our own educational purposes we have collected data on the DonkeyCar simulator (https://docs.donkeycar.com/guide/deep_learning/simulator/). Please download the dataset from: 
+
+The statistics for this dataset are as follows:
 
 # Training
 We have used Colab for training our models. If you would like to do the same, we recommend downloading the Training-Notebook.ipynb from `/train` folder. 
