@@ -36,6 +36,6 @@ We have some pre-trained models in PyTorch available. Note that each model has b
 5. FDS.pth: A model with FDS smoothing applied.
 6. FDS-DenseLoss-alpha-0.8.pth: A model which trains using both FDS and DenseLoss, alpha was 0.8.
 
-#Demos and Videos
+# Demos and Videos
 We have captured screen recordings for all the above models, in this folder. They have been organized as per name.
 
