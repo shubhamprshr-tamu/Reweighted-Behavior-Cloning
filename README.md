@@ -17,7 +17,7 @@ The repo contains source code for our project, Reweighted-Behavior-Cloning. We d
 
 The stats for the dataset are as follows:
 
-![image](https://user-images.githubusercontent.com/113248148/205826679-56abf67b-c2fa-4eee-a364-881ed0a80fd5.png)
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/113248148/205827140-99a92ded-17c1-4e71-be72-3f1c21af8106.png">
 
 
 2. DonkeyCar: For our own educational purposes we have collected data on the DonkeyCar simulator (https://docs.donkeycar.com/guide/deep_learning/simulator/). Please download the dataset from: 
