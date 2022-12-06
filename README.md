@@ -50,4 +50,6 @@ We have some pre-trained models in PyTorch available. Note that each model has b
 We have captured screen recordings for all the above models, in this folder. They have been organized as per name.
 https://drive.google.com/drive/folders/13jPhnE_FFQDmREW7dpUCF9JxNZ7lMYur
 
+For a quick summary demo of different approaches:
+https://youtu.be/-Ibj_SYtF-w
 
