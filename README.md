@@ -3,7 +3,7 @@ Repository that holds code for for CSCE: 689 Deep Reinforcement Learning's Cours
 
 # Authors
 1. Shubham Parashar (shubhamprshr@tamu.edu), UIN: 532008699
-2. Vijay Anand Raghava Kanakagiri (vijay7anand@tamu.edu)
+2. Vijay Anand Raghava Kanakagiri (vijay7anand@tamu.edu), UIN: 933004894
 
 # Overview
 The repo contains source code for our project, Reweighted-Behavior-Cloning. We derive motivation from the following repos:
